@@ -1,4 +1,4 @@
-# HairMapper: Removing Hair from Portraits Using GANs
+# Removing Hair from Portraits Using GANs
 
 ![hairmapper](./imgs/hairmapper.png)
 
