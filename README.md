@@ -20,9 +20,6 @@
 
 # Install
 
-1. ```bash
-   git clone git@github.com:oneThousand1000/HairMapper.git
-   ```
    
 1. Download the following pretrained models, put each of them to **path**:
 
